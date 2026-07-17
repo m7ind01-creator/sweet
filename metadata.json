@@ -1,0 +1,6 @@
+{
+  "name": "Lumora",
+  "description": "A fullscreen cinematic hero section for Lumora, a mindfulness and focus app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
